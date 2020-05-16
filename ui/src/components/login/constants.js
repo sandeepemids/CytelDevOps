@@ -1,2 +1,2 @@
-const LOGIN = { INCORRECTCREDENTIAL: "Incorrect Username or Password" };
+const LOGIN = { INCORRECTCREDENTIAL: "Incorrect User or Password" };
 export default LOGIN;
