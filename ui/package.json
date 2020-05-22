@@ -1,8 +1,7 @@
 {
   "name": "solaris",
   "version": "0.1.0",
-  "homepage": ".",
-  "private": true,
+   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-pro": "^5.13.0",
     "@fortawesome/fontawesome-svg-core": "^1.2.28",
